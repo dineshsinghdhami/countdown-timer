@@ -10,9 +10,9 @@
 
 ## 🚀 Features
 
-- Enter minutes to start the countdown  
-- Timer displays **minutes and seconds**  
-- Text changes to **"Time's Up!"** when timer ends   
+- Enter minutes to start the countdown.
+- Timer displays **minutes and seconds.**  
+- Text changes to **"Time's Up!"** when timer ends.   
 
 ---
 
@@ -22,48 +22,31 @@
 
 ---
 
-## 🎬 Demo
+## 📁 Project Structure
 
-You can see the demo live [here](https://dineshsinghdhami.com.np/countdown-timer)
-
----
-
-⚡ Usage
-
-Enter the number of minutes in the input box.
-
-Click Start to begin the countdown.
-
-Watch the timer decrease.
-
-When it reaches zero, "Time's Up!".
+```
+Temperature-Converter/
+│
+├── index.html
+├── style.css
+├── script.js
+└── screenshot.png
+```
 
 ---
 
-📂 Folder Structure
+## ✍️ Author
+- Dinesh Singh Dhami
 
-countdown-timer
-
-├── index.html       
-├── style.css        
-├── script.js        
-├── screenshot.png   
-└── README.md       
+- GitHub:  [Dinesh Singh Dhami](https://github.com/dineshsinghdhami)
+- Linkedin: [Dinesh Singh Dhami](https://www.linkedin.com/in/dineshsinghdhami1/)
+- Portfolio: [dineshsinghdhami.com.np](http://dineshsinghdhami.com.np/)
 
 ---
 
-✍️ Author
-Dinesh Singh Dhami
-
-GitHub:  [thecodingdhami](https://github.com/thecodingdhami)
-
-Portfolio: [dineshsinghdhami.com.np](http://dineshsinghdhami.com.np/)
+## 🌟 Contributing
+- Feel free to fork this project, make improvements, and submit pull requests!
 
 ---
 
-🌟 Contributing
-Feel free to fork this project, make improvements, and submit pull requests!
-
----
-
-Made with ❤️ by Dinesh Singh Dhami
+**Made with ❤️ by Dinesh Singh Dhami**
