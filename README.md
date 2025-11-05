@@ -25,7 +25,7 @@
 ## 📁 Project Structure
 
 ```
-Temperature-Converter/
+Countdown-timer/
 │
 ├── index.html
 ├── style.css
